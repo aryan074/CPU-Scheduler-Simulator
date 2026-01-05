@@ -1,4 +1,4 @@
-#### **CPU Scheduling Algorithm Simulator**
+### **CPU Scheduler Simulator**
 
 
 
@@ -44,15 +44,27 @@ This project helps students understand core operating system concepts through pr
 
 •	Automatic calculation of:
 
-&nbsp;	o	Waiting Time
+ 	o	Waiting Time
 
-&nbsp;	o	Turnaround Time
+ 	o	Turnaround Time
 
-&nbsp;	o	Average Waiting Time
+ 	o	Average Waiting Time
 
-&nbsp;	o	Average Turnaround Time
+ 	o	Average Turnaround Time
 
 •	Clear performance comparison between algorithms
+
+
+
+##### **How to Run the Project**
+
+1\.	Clone the repository:
+
+2\.	Launch the main file (index.html) in any modern web browser.
+
+Go to CPU Scheduler Simulator  frontend  public  src  index.html
+
+3\.	Enter process data, select a scheduling algorithm, and run the simulation.
 
 
 
@@ -68,15 +80,13 @@ This project helps students understand core operating system concepts through pr
 
 
 
-##### Author
+
+
+##### **Author**
 
 Aryan Panwar
 
 Bachelor of Computer Applications
 
 GitHub: https://github.com/aryan074
-
-
-
-
 
